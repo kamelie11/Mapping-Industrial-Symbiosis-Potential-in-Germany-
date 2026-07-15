@@ -1,0 +1,2 @@
+# Mapping-Industrial-Symbiosis-Potential-in-Germany-
+Python-based geospatial analysis identifying potential industrial symbiosis partners across Germany from public PRTR waste data. Uses BallTree indexing and Haversine distances with empirical proximity thresholds (15.4/32.6 km) and a sector compatibility filter, producing a collaboration table, interactive line maps and distance-weighted heatmaps.
